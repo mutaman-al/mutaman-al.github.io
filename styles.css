@@ -41,6 +41,10 @@ body {
     width: 24px;
 }
 
+#resume {
+    text-decoration: none;
+}
+
 .body-content p{
     font-size: 30px;
 }
